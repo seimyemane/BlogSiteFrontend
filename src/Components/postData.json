@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "The Rise of AI: How Machine Learning is Changing the World",
+    "slug": "rise-of-ai-machine-learning",
+    "date": "2025-05-10",
+    "author": "John Doe",
+    "excerpt": "AI is no longer science fiction. Learn how machine learning is revolutionizing industries, from healthcare to finance.",
+    "content": "Artificial Intelligence (AI) and Machine Learning (ML) are rapidly transforming the way we interact with technology. From personalized recommendations on streaming platforms to predictive maintenance in manufacturing, AI is everywhere. In this article, we explore the core concepts of ML and how businesses are leveraging its power.",
+    "tags": ["AI", "Machine Learning", "Technology"],
+    "category": "Artificial Intelligence",
+    "imageUrl": "https://dummyimage.com/800x600/cccccc/000000&text=AI+Machine+Learning"
+  },
+  {
+    "id": 2,
+    "title": "Top 10 JavaScript Frameworks in 2025",
+    "slug": "top-javascript-frameworks-2025",
+    "date": "2025-05-11",
+    "author": "Jane Smith",
+    "excerpt": "Explore the best JavaScript frameworks for building modern web applications in 2025. From React to Svelte, here's what you need to know.",
+    "content": "Choosing the right JavaScript framework can make or break your project. In 2025, the ecosystem continues to evolve with React, Vue, and Svelte dominating the scene. This article compares their strengths, weaknesses, and best use cases.",
+    "tags": ["JavaScript", "Web Development", "Frameworks"],
+    "category": "Web Development",
+    "imageUrl": "https://dummyimage.com/800x600/cccccc/000000&text=JavaScript+Frameworks"
+  },
+  {
+    "id": 3,
+    "title": "iPhone 17 Pro Max Review: Power, Precision, and AI",
+    "slug": "iphone-17-pro-max-review",
+    "date": "2025-05-12",
+    "author": "Alex Johnson",
+    "excerpt": "Apple's latest flagship phone is here. We dive into the features, performance, and whether it's worth the upgrade.",
+    "content": "The iPhone 17 Pro Max brings significant improvements in battery life, camera performance, and AI integration. With the A19 chip, users experience lightning-fast performance and smarter automation. But is it worth the $1,499 price tag?",
+    "tags": ["iPhone", "Apple", "Smartphones", "Review"],
+    "category": "Tech Reviews",
+    "imageUrl": "https://dummyimage.com/800x600/cccccc/000000&text=iPhone+17+Pro+Max"
+  },
+  {
+    "id": 4,
+    "title": "Getting Started with React and Tailwind CSS",
+    "slug": "react-tailwind-css-setup",
+    "date": "2025-05-13",
+    "author": "Emily Zhang",
+    "excerpt": "Learn how to build responsive, modern UIs using React and Tailwind CSS with this quick-start guide.",
+    "content": "React is one of the most popular libraries for building user interfaces, and Tailwind CSS makes styling effortless with utility classes. In this tutorial, we’ll set up a React project and style it using Tailwind to create a responsive layout.",
+    "tags": ["React", "Tailwind CSS", "Frontend"],
+    "category": "Frontend Development",
+    "imageUrl": "https://dummyimage.com/800x600/cccccc/000000&text=React+%26+Tailwind+CSS"
+  },
+  {
+    "id": 5,
+    "title": "Cybersecurity Trends to Watch in 2025",
+    "slug": "cybersecurity-trends-2025",
+    "date": "2025-05-14",
+    "author": "Michael Lee",
+    "excerpt": "As threats grow more sophisticated, staying ahead in cybersecurity is crucial. Here are the top trends shaping 2025.",
+    "content": "Cybersecurity is more important than ever, with threats ranging from ransomware to AI-driven attacks. In 2025, expect to see more emphasis on zero trust architecture, AI-based threat detection, and cloud-native security solutions.",
+    "tags": ["Cybersecurity", "Trends", "IT Security"],
+    "category": "Cybersecurity",
+    "imageUrl": "https://dummyimage.com/800x600/cccccc/000000&text=Cybersecurity+Trends"
+  }
+]
